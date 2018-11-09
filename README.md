@@ -1,7 +1,7 @@
 TypeMailer - An E-Mail Library for Scala with multiple Backends
 ===============================================================
 
-[![Build Status](https://travis-ci.org/acme-software/typemailer.svg?branch=master)](https://travis-ci.org/acme-software/typemailer)
+[![Build Status](https://travis-ci.org/acme-software/typemailer.svg?branch=master)](https://travis-ci.org/acme-software/typemailer) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/366e9d2e21d54e309cc61c924934948a)](https://www.codacy.com/app/frne/typemailer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acme-software/typemailer&amp;utm_campaign=Badge_Grade)
 
 **This is absolutely work-in-progress and by no means production-ready**
 
